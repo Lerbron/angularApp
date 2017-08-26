@@ -1,0 +1,1 @@
+import { DynamicComponent } from './dynamic.component';import { DynamicDetailComponent } from '../dynamic-detail/dynamic-detail.component';export const dynamicRouter = [  {    path: '',    component: DynamicComponent  },  {    path: 'dynamicdetail',    component: DynamicDetailComponent  }]

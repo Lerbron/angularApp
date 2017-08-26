@@ -1,0 +1,1 @@
+import { MineComponent } from './mine.component';export const mineRouter = [  {    path: '',    component: MineComponent  }]
